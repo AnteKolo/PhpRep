@@ -19,6 +19,8 @@ else if($a<$b){
 }
 else{echo "a jednak b";}
 
+echo "<p></p>";
+
 switch ($a) {
     case ($b):
         echo "a jednak b";

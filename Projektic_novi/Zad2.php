@@ -13,7 +13,7 @@ if($a==$b){echo "a jednak b";}
 else if($a>$b){echo "a veci od b";}
 else{echo "a manji od b";}
 
-
+echo "<p></p>";
 
 switch ($a) {
     case ($b):

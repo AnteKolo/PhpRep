@@ -12,7 +12,7 @@ if($a==3){echo "a jednak 3";}
 
 else{echo "a nije 3";}
 
-
+echo "<p></p>";
 
 switch ($a) {
     case 5:
